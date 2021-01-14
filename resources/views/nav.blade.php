@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand navbar-dark blue-gradient">
+<nav class="navbar navbar-expand navbar-dark young-passion-gradient">
 
-  <a class="navbar-brand" href="/"><i class="far fa-sticky-note mr-1"></i>YouTube Share</a>
+  <a class="navbar-brand" href="/"><i class="fab fa-youtube mr-1"></i>YouTube Share</a>
 
   <ul class="navbar-nav ml-auto">
 
